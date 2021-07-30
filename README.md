@@ -17,4 +17,4 @@ This is the official implementation of the "forumBERT: Topic Adaptation and Clas
 
 # License
 
-The software in this Git repository's master branch is available under the Apache-2.0 (see LICENSE).
+The software in this Git repository's master branch is available under the Apache-2.0 (see [LICENSE](LICENSE)).
